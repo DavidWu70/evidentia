@@ -1,0 +1,17 @@
+Title: Mental State Exam Notes
+
+Draft a mental status focused note:
+
+Presenting Concerns:
+- Core subjective complaints.
+
+Mental Status Exam:
+- Appearance/behavior, speech, mood/affect, thought process/content, cognition, insight/judgment.
+
+Risk Review:
+- Relevant risk cues and current level.
+
+Clinical Impression:
+- Working impression based on transcript only.
+
+Use concise bullets and "Data pending" where not available.

@@ -1,0 +1,17 @@
+Title: Internal Medicine Progress
+
+Draft an internal medicine progress note:
+
+Interval Update:
+- New interval events and symptom changes.
+
+Objective:
+- Objective findings from transcript context and pending data.
+
+Assessment:
+- Updated clinical interpretation of active issues.
+
+Plan:
+- Immediate plan and follow-up tasks.
+
+Use concise bullets and "Data pending" where missing.

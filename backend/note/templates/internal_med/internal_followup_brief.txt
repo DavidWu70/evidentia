@@ -1,0 +1,17 @@
+Title: Internal Follow-up Brief
+
+Draft a brief internal medicine follow-up note:
+
+Follow-up Summary:
+- One-paragraph summary of current status.
+
+Current Issues:
+- Active symptom/problem bullets.
+
+Safety Actions:
+- Urgent red-flag guidance and escalation instructions.
+
+Plan:
+- Next actions and return precautions.
+
+Use concise bullets and "Data pending" where needed.

@@ -1,0 +1,16 @@
+Title: Psychiatric Consultation
+
+Draft a psychiatric consultation note with this structure:
+
+Consult Question:
+- Why this consultation was requested.
+Key History:
+- Relevant psychiatric and psychosocial context from transcript.
+
+Risk Review:
+- Suicide/self-harm/violence risk statements and current level.
+
+Recommendations:
+- Practical recommendations and immediate follow-up actions.
+
+Use concise bullets and write "Data pending" where context is missing.

@@ -1,0 +1,14 @@
+Title: Follow-up
+
+Draft a psychiatric follow-up note:
+
+Interval Update:
+- Changes since last contact and current symptom course.
+
+Current Risks:
+- Current safety concerns and protective factors.
+
+Next Steps:
+- Questions, monitoring plan, and care plan updates.
+
+Use concise bullets and "Data pending" for missing information.

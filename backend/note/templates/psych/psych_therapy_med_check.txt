@@ -1,0 +1,17 @@
+Title: Therapy + Med Check Note
+
+Draft a combined psychotherapy and medication follow-up note:
+
+Session Agenda:
+- Focus areas discussed this session.
+
+Therapy Focus:
+- Emotional themes, coping work, functional impact.
+
+Medication Review:
+- Adherence, efficacy, tolerability, and medication-related concerns.
+
+Plan:
+- Behavioral and medication next steps.
+
+Use concise bullets and "Data pending" where necessary.

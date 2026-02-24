@@ -1,0 +1,17 @@
+Title: Internal Medicine SOAP
+
+Draft an internal medicine SOAP note:
+
+HPI:
+- Current illness narrative and symptom progression.
+
+Objective:
+- Transcript-derived objective context and what is pending.
+
+Assessment:
+- Working differential or problem framing.
+
+Plan:
+- Follow-up diagnostics, treatment, and monitoring steps.
+
+Use concise bullets and "Data pending" when details are unavailable.

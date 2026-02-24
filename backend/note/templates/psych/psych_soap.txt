@@ -1,0 +1,19 @@
+Title: Psychiatric SOAP Note
+
+Draft a psychiatric SOAP note using these headings and order:
+
+Subjective:
+- Main symptoms and patient-reported concerns.
+
+Objective:
+- Observable findings from available transcript evidence.
+
+Assessment:
+- Clinical interpretation and risk considerations.
+
+Plan:
+- Follow-up questions, safety actions, and next steps.
+
+Style requirements:
+- Keep concise bullet points.
+- If information is missing, write "Data pending".
