@@ -1,0 +1,16 @@
+# Optional dependencies for full local model features.
+#
+# MedGemma / note generation / risk AI enhancement
+llama-cpp-python>=0.2.90,<1
+#
+# MedASR HuggingFace backend
+torch>=2.2
+transformers>=4.40
+#
+# Audio decode fallbacks when ffmpeg is unavailable
+miniaudio>=1.61
+soundfile>=0.12
+#
+# Optional MedASR LM decoding
+pyctcdecode>=0.5.0
+kenlm>=0.2.0
